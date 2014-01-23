@@ -3,9 +3,9 @@
 <root>
 
 	<Workflow>
-		<DisplayName>Default Preferences</DisplayName>
-		<Description>This is the default preferences file.</Description>
-		<Filename>edu.psu.clc.blastimageconfig.bicwf</Filename>
+		<DisplayName>Developer Device Preferences</DisplayName>
+		<Description>This is the default preferences file for developer devices.</Description>
+		<Filename>dev.gds.blastimageconfig.bicwf</Filename>
 	</Workflow>
 
 </root>
